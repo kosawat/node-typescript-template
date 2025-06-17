@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Check the mail",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Wash car",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "name": "Setup time tracker",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Check the news",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Groceries",
+    "isActive": false
+  },
+  {
+    "id": 5,
+    "name": "Buy plants",
+    "isActive": false
+  }
+]
